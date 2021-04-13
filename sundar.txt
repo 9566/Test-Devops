@@ -1,3 +1,8 @@
 anna university
 subject - mathematic 1
 subject - mathematic 2
+subject - english 
+subject - tamil
+subject - chemisry
+subject - physics
+
